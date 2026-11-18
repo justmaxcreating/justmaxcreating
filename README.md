@@ -11,4 +11,4 @@ AI Solutions & Creative Technologist based in Würzburg, Germany. I build AI pro
 
 #### Tools I work with
 
-Claude Code · Claude & OpenAI APIs · MCP · Python · JavaScript · Supabase · Netlify · Make.com · n8n · Figma
+Claude Code · Claude & OpenAI APIs · MCP · Claude Skills · Supabase · Netlify · Make.com · n8n · Figma
