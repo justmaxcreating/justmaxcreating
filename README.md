@@ -4,7 +4,6 @@ AI Solutions & Creative Technologist based in Würzburg, Germany. I build AI pro
 
 #### Open source
 
-- **[interactive-cv](https://github.com/justmaxcreating/interactive-cv)**: my bilingual CV site and ATS-friendly PDFs, generated from one JSON source. [Live](https://elevion.studio/max)
 - **[mnemos](https://github.com/justmaxcreating/mnemos)**: a faster front end for the Meta Ad Library with winner detection, brand radar and a swipe file. [Live](https://elevion.studio/mnemos)
 
 #### Tools I work with
