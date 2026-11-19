@@ -2,8 +2,6 @@
 
 AI Solutions & Creative Technologist based in Würzburg, Germany. I build AI production systems for marketing teams: campaign pipelines, dashboards and client tools that ship real work every day. I also run [Elevion](https://elevion.studio), an AI-native performance design studio.
 
-**CV:** [elevion.studio/max](https://elevion.studio/max)
-
 #### Open source
 
 - **[interactive-cv](https://github.com/justmaxcreating/interactive-cv)**: my bilingual CV site and ATS-friendly PDFs, generated from one JSON source. [Live](https://elevion.studio/max)
